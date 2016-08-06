@@ -1,0 +1,790 @@
+nohup: ignoring input
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/97662a352b5ede38ecb17cd247f56b4c826ba584.apk'
+
+	Results for MD5:  f52e4d38f62df4601808d2f391d2d7e7 
+
+	Detected by:  13 / 53 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+CAT-QuickHeal Android.Odpa.Af01b (PUP)
+McAfee Artemis!F52E4D38F62D
+VIPRE Trojan.AndroidOS.Generic.A
+ESET-NOD32 a variant of Android/Odpa.A potentially unwanted
+AegisLab Spr.Andr.Odpa.A!c
+Cyren AndroidOS/GenPua.F52E4D38!Olympus
+Avira SPR/ANDR.Odpa.A.Gen
+Fortinet Adware/Umeng.W
+Antiy-AVL Trojan/AndroidOS.TSGeneric
+Zoner Trojan.AndroidOS.Generic.A
+Ikarus AdWare.AndroidOS.Odpa
+AVG Android_ctl.AGFN
+Baidu-International PUA.Android.Odpa.A
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/248bce824e818f813102323be457c82276dc34da.apk'
+
+	Results for MD5:  b8b3610348555fd88c3d3234da3f6dc1 
+
+	Detected by:  1 / 56 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Avira ADWARE/ANDR.Flurry.A.125
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao2/cfc56b8381a14fb710995c7c248ccaa5847f541e.apk'
+
+	Results for MD5:  8efdf830ba618674b8176c6f15e9a211 
+
+	Detected by:  0 / 56 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/0c326c53df0e78a8190a5f33a28a4d95db0d3e03.apk'
+
+	Results for MD5:  931817fb9f3a88047ed46e680d3818d9 
+
+	Detected by:  3 / 55 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+VIPRE Trojan.AndroidOS.Generic.A
+F-Prot AndroidOS/Kuguo.T
+Cyren AndroidOS/Kuguo.T
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/2b635d46c3e62f112f88c8d37d192bc9999109b4.apk'
+
+	Results for MD5:  b9ebe2dd1e26316e1f5f8dd9037c2109 
+
+	Detected by:  1 / 54 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Alibaba A.W.Rog.RiskApp
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/6e755d2fb99060519947675e0b2665c9e5b90bdf.apk'
+
+	Results for MD5:  cb58b8fb88674fd6b279548f54962919 
+
+	Detected by:  0 / 54 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/9488b62f25eb70fbdeff2233c6f43d157f059ca7.apk'
+08F91A8C57CD2E057A4A6493626F38BF -- Not Found in VT
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao2/5dbb49dd0dd113771548dc1183ab47b1fb4a55c6.apk'
+
+	Results for MD5:  960d292b48e53372d9b6ddee0b783a23 
+
+	Detected by:  16 / 56 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+MicroWorld-eScan Android.Adware.Mobclick.A
+BitDefender Android.Adware.Mobclick.A
+K7GW Trojan ( 0001140e1 )
+F-Prot AndroidOS/Youmi.A
+NANO-Antivirus Trojan.Android.Agent.dpxymg
+Ad-Aware Android.Adware.Mobclick.A
+F-Secure Android.Adware.Mobclick
+VIPRE Trojan.AndroidOS.Generic.A
+Emsisoft Android.Adware.Mobclick.A (B)
+Cyren AndroidOS/Youmi.A
+GData Android.Adware.Mobclick.A
+McAfee Artemis!960D292B48E5
+AVware Trojan.AndroidOS.Generic.A
+ESET-NOD32 a variant of Android/AdDisplay.Youmi.I potentially unwanted
+Fortinet Adware/Umeng.W
+Baidu-International PUA.Android.Youmi.I
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/111540fc83e7494aed2f2fb2a530aca0cdbb008c.apk'
+99D5DF16BCF700E897F403D57E8C433D -- Not Found in VT
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/1d73402972072186d7301545c44a7dfba9609d85.apk'
+3EFC4F608BD70C2D7519713147770B1F -- Not Found in VT
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/49e9fcd0428b5541737d2aaa5c714279855f398f.apk'
+15CBBEDAC4E9DFDB56549519B4D79E74 -- Not Found in VT
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/b811461121ec612da2432b9d3ff9a75b4a803590.apk'
+
+	Results for MD5:  a9014e59d3f2217dbf6e1af03b758c5a 
+
+	Detected by:  0 / 57 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/ccc31761b4379d8461b1db82af17c480ebfa6f2c.apk'
+883F9CF973BDAF45594EBE61D04176E5 -- Not Found in VT
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao2/8d2e22cb34125bbda0229ca6df26177087413a31.apk'
+
+	Results for MD5:  f170bfd907bb9ee5fc6cae3b3d7f2796 
+
+	Detected by:  0 / 56 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao2/04668d998919a3796ecf53919bfc396f66f159a1.apk'
+
+	Results for MD5:  9695f5feea78aa706d9e377877b2b54e 
+
+	Detected by:  0 / 54 
+	Sophos Detection:
+Traceback (most recent call last):
+  File "vt.py", line 136, in <module>
+    main()
+  File "vt.py", line 125, in main
+    parse(vt.getReport(md5), md5 ,options.verbose, options.jsondump)
+  File "vt.py", line 88, in parse
+    print "\n\tResults for MD5: ",it['md5'],"\n\n\tDetected by: ",it['positives'],'/',it['total'],'\n\tSophos Detection:',it['scans']['Sophos']['result'] ,'\n\tKaspersky Detection:',it['scans']['Kaspersky']['result'], '\n\tTrendMicro Detection:',it['scans']['TrendMicro']['result']
+KeyError: 'Sophos'
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao2/061ceefa49511b75611cb231f23c4364a7932c15.apk'
+
+	Results for MD5:  e8b4790f1c6f9a111d23f3a46717265e 
+
+	Detected by:  0 / 56 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/095162be805767b8fe54b784c9a888045a48e1ec.apk'
+
+	Results for MD5:  093b6e2a5ba931438d6e60de6b223376 
+
+	Detected by:  0 / 53 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/0cccb2dbf743aa153273a609a158507fe322d326.apk'
+3F60022CB4B13C383500BA80A0C2F0E3 -- Not Found in VT
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/1820a69781ac944f1bbcfb289f6c34d2524e25b8.apk'
+07ADBF7B3FBC30C666E253E99C407D21 -- Not Found in VT
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/27c4e2ab94a503ad3ef62a0163c3a19c51b01989.apk'
+
+	Results for MD5:  0eee9b50f5a8a26a913af545bf7ec8d2 
+
+	Detected by:  0 / 44 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/5656d94e49f0affd1a09fc15ac2e2a5cc65e4909.apk'
+
+	Results for MD5:  03b0b889869525db5aaf7d0cbd40bcdd 
+
+	Detected by:  0 / 55 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/667f8fef6e47e3adc467bd6a0f43dc42bf807d46.apk'
+A959F4E4D526E49E03C5FD50DAB35CAD -- Not Found in VT
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/6d6539dbfb8aa111aee63b491eabc4277328696f.apk'
+
+	Results for MD5:  bb05d2673d24231769c39f7d084e71b1 
+
+	Detected by:  0 / 47 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/78b740a4c49d3763e75b2142e0d408cf2fca1475.apk'
+
+	Results for MD5:  c77e96dc55f882eb28745ad5640b9b0b 
+
+	Detected by:  0 / 49 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/8fc7396fcd3f1560e3adb39ce86f2090d41b9187.apk'
+235748ACE0ECC8DE25E688C06137F1FE -- Not Found in VT
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/9679cb49a4ffd71b1476a682c6211fcd96d4cf72.apk'
+122EA627D277472A5DA89006E8A43AE5 -- Not Found in VT
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/a0abad89783947776d98871f3ba09a0d7b2e987b.apk'
+
+	Results for MD5:  f0453fd7a056f5e14e240892163e9e6c 
+
+	Detected by:  0 / 53 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/a1186cce9e288e8b35dbd5bd24a6c6a013247795.apk'
+
+	Results for MD5:  6fe9473da5490ac59e2d3ce56143059c 
+
+	Detected by:  0 / 41 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/b532a80dee324e611164fb3828a275692552b0b8.apk'
+
+	Results for MD5:  e9dbee3c5195a402e3c5b49c419ed081 
+
+	Detected by:  0 / 54 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/d575276105bf3fa1d37133a233c33b3d29400e33.apk'
+
+	Results for MD5:  d8b371c940cdc1262a409abd01eb30af 
+
+	Detected by:  1 / 56 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Alibaba A.L.Rog.ysmv
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/e24aa151abc511901e98024ba234580e59a392d4.apk'
+
+	Results for MD5:  4fbe4f8490217be04b31f8c60384aff4 
+
+	Detected by:  13 / 54 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+CAT-QuickHeal Android.Domob.A (AdWare)
+McAfee Artemis!4FBE4F849021
+ESET-NOD32 a variant of Android/Domob.A potentially unwanted
+AegisLab Android.Domob.A!c
+Tencent Android.Trojan.Domob.Phra
+VIPRE Trojan.AndroidOS.Generic.A
+Cyren AndroidOS/GenPua.4FBE4F84!Olympus
+Avira ADWARE/ANDR.Domob.D.Gen
+Antiy-AVL Trojan/AndroidOS.TSGeneric
+Baidu-International PUA.Android.Domob.E
+Ikarus AdWare.AndroidOS.Domob
+Fortinet Adware/Domob!Android
+AVG Android/Deng.GOY
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/eceff6e7c5b93b0ab031034605a7b988876eb0b1.apk'
+
+	Results for MD5:  095a66600d84a6e6863280f077e936e7 
+
+	Detected by:  0 / 53 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/ee3691f79de21c1a970cbcae0e116570a33bc3d2.apk'
+
+	Results for MD5:  aff5a0b3629741566d639d7b4f781184 
+
+	Detected by:  1 / 54 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Fortinet Adware/Umeng.W
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao2/96c4ca04b7568a1d5ac806b2d2d1df905a2a4b93.apk'
+
+	Results for MD5:  db1e48010c81f17eaeab93740ec2031d 
+
+	Detected by:  0 / 57 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao2/ea967fbd9e3646f896250099009052dfc5c3e772.apk'
+60549AF983F04308180F6B7F5E1DF91F -- Not Found in VT
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/354a163712c0be84932d0571e174cf96fd9b7842.apk'
+
+	Results for MD5:  ac51780411a96e0b92e9546f6bde9aec 
+
+	Detected by:  0 / 57 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/54a01a15fc0ce86b8e1f59be945f3dfc99640312.apk'
+139612A512502AE3091677D845AC30AB -- Not Found in VT
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/db8330b2c9eecc00bb3ae521ab4a0555568c9152.apk'
+
+	Results for MD5:  b4906dd9e046d49eb03b2573816136aa 
+
+	Detected by:  1 / 55 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Kingsoft Android.Troj.luomao.cr.(kcloud)
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao2/71ca7930c77cecd878ceeba8bf76f92cb1c351fb.apk'
+
+	Results for MD5:  93ad4fef93323dbf3e582dcb48c2dea6 
+
+	Detected by:  27 / 57 
+	Sophos Detection: Andr/DoidRoot-B 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+MicroWorld-eScan Android.Exploit.Exploid.C
+CAT-QuickHeal Android.Rooter.A
+VIPRE Trojan.AndroidOS.Generic.A
+AegisLab Suspicious
+BitDefender Android.Exploit.Exploid.C
+F-Prot AndroidOS/Lotoor.AD
+Avast Android:Rooter-BR [PUP]
+Alibaba A.H.Sys.Rooter
+NANO-Antivirus Trojan.Android.DroidRooter.dcrlor
+Ad-Aware Android.Exploit.Exploid.C
+Sophos Andr/DoidRoot-B
+Comodo UnclassifiedMalware
+F-Secure Exploit:Android/Exploid.B
+Emsisoft Android.Exploit.Exploid.C (B)
+Cyren AndroidOS/GenPua.93AD4FEF!Olympus
+Avira Android/RooterI.A.5
+Kingsoft Android.HACKTOOL.at_Itfunz.a.(kcloud)
+AhnLab-V3 Android-Malicious/Rooter
+GData Android.Exploit.Exploid.C
+McAfee Artemis!93AD4FEF9332
+AVware Trojan.AndroidOS.Generic.A
+Zoner Exploit.AndroidOS.Exploid
+ESET-NOD32 a variant of Android/DroidRooter.O potentially unsafe
+Tencent Trojan.Android.Agent.420B5685
+Fortinet Android/DoidRoot.B
+AVG Android/Deng.HT
+Qihoo-360 Win32/Virus.3cf
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/020d54b404a7d94267468162d462f759e77a9b5b.apk'
+
+	Results for MD5:  286d04b650188b9a5532afbb7f841c28 
+
+	Detected by:  13 / 51 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+MicroWorld-eScan Android.Adware.Mobclick.A
+McAfee Artemis!286D04B65018
+F-Prot AndroidOS/Youmi.A
+BitDefender Android.Adware.Mobclick.A
+Ad-Aware Android.Adware.Mobclick.A
+F-Secure Android.Adware.Mobclick.A
+AntiVir Adware/ANDR.Youmi.E.Gen
+McAfee-GW-Edition Artemis!286D04B65018
+Emsisoft Android.Adware.Mobclick.A (B)
+GData Android.Adware.Mobclick.A
+ESET-NOD32 a variant of Android/AdDisplay.Youmi.E
+Fortinet Adware/Umeng.W
+Baidu-International Adware.Android.Youmi.E
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao2/fe6f17c0eba6cec97c89ecd4dc67891117252454.apk'
+
+	Results for MD5:  c426d9afe58d533a23086eef1d292b3e 
+
+	Detected by:  1 / 55 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Fortinet Android/Spambot.E!tr
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/d9001d9ee553ae335f9cc824b29f8c558a9729bd.apk'
+
+	Results for MD5:  31d0a903d05383b3c903e6deddcd16b8 
+
+	Detected by:  0 / 56 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/ecf455ca72b8edfd5a831042c552005f2c6dbbdd.apk'
+
+	Results for MD5:  7412bb0ab1c408d466331e9cc7e165e2 
+
+	Detected by:  38 / 55 
+	Sophos Detection: Andr/Kmin-A 
+	Kaspersky Detection: HEUR:Trojan.AndroidOS.Mobtes.u 
+	TrendMicro Detection: AndroidOS_KMIN.A
+Details:============== result
+MicroWorld-eScan Android.Trojan.Kmin.A
+CAT-QuickHeal Android.Kmin.A
+BitDefender Android.Trojan.Kmin.A
+K7GW Trojan ( 004725ae1 )
+F-Prot AndroidOS/Kmin.A
+Symantec Android.Ozotshielder
+ESET-NOD32 Android/Kmin.A
+TrendMicro-HouseCall AndroidOS_KMIN.A
+Avast Android:Kmin-AH [Trj]
+ClamAV Andr.Trojan.Kmin-4
+Kaspersky HEUR:Trojan.AndroidOS.Mobtes.u
+Alibaba A.H.Pay.Kmin
+NANO-Antivirus Trojan.Android.Kmin.cwzghj
+Ad-Aware Android.Trojan.Kmin.A
+Sophos Andr/Kmin-A
+Comodo UnclassifiedMalware
+F-Secure Trojan:Android/Kmin.A
+DrWeb Android.Kmin.1.origin
+Zillya Trojan.Kmin..75
+TrendMicro AndroidOS_KMIN.A
+McAfee-GW-Edition Artemis!Trojan
+Emsisoft Android.Trojan.Kmin.A (B)
+Cyren AndroidOS/GenBl.7412BB0A!Olympus
+Jiangmin Backdoor/AndroidOS.ci
+Fortinet Android/Ozotshielder.A!tr
+Antiy-AVL Trojan[Backdoor]/AndroidOS.Kmin.a
+Arcabit Android.Trojan.Kmin.A
+AegisLab Kmin
+AhnLab-V3 Android-Trojan/Kmin.1f6a
+Microsoft Trojan:AndroidOS/Kmin.A
+McAfee Artemis!7412BB0AB1C4
+AVware Trojan.AndroidOS.Kmin.a
+VBA32 Backdoor.AndroidOS.Kmin.d
+Tencent SH.!Android.MExtra.Gen.161c3
+Ikarus Trojan.AndroidOS.Kmin
+GData Android.Trojan.Kmin.A
+AVG Fujian Kaimo Network Tech
+Qihoo-360 Trojan.Android.Gen
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao2/132f70936801d48da0677dedb09ef526ff1403ee.apk'
+
+	Results for MD5:  23fe7f0942667867fa14ddd7ac855e14 
+
+	Detected by:  36 / 53 
+	Sophos Detection: Andr/DDLight-A 
+	Kaspersky Detection: HEUR:Trojan-Downloader.AndroidOS.DorDrae.a 
+	TrendMicro Detection: AndroidOS_DDLight.SMA
+Details:============== result
+MicroWorld-eScan Android.Trojan.DDLight.D
+CAT-QuickHeal Android.LightDD.B
+McAfee Artemis!23FE7F094266
+AegisLab DorDrae
+BitDefender Android.Trojan.DDLight.D
+K7GW Trojan ( 0048d6381 )
+F-Prot AndroidOS/DroidDream.C
+Symantec Android.Lightdd
+ESET-NOD32 Android/Lightdd.D
+TrendMicro-HouseCall AndroidOS_DDLight.SMA
+Avast Android:DorDrae-A [Trj]
+ClamAV Andr.Trojan.DroidDreamLight-1
+Kaspersky HEUR:Trojan-Downloader.AndroidOS.DorDrae.a
+Alibaba A.H.Pri.MalCrypt.A
+NANO-Antivirus Trojan.Android.Lightdd.dnzuug
+Ad-Aware Android.Trojan.DDLight.D
+Sophos Andr/DDLight-A
+Comodo UnclassifiedMalware
+F-Secure Trojan:Android/DroidDream.D
+DrWeb Android.DownLoader.63.origin
+TrendMicro AndroidOS_DDLight.SMA
+Emsisoft Android.Trojan.DDLight.D (B)
+Cyren AndroidOS/DroidDream.C
+Jiangmin TrojanDownloader.AndroidOS.ek
+Avira ANDROID/Lightdd.A.Gen
+Fortinet Android/DrdLight.O!tr
+Antiy-AVL Trojan[Downloader]/AndroidOS.DorDrae.cw
+Arcabit Android.Trojan.DDLight.D
+AhnLab-V3 Android-Trojan/LightDD.1bd5
+Microsoft TrojanSpy:AndroidOS/DDLight.B
+VBA32 Trojan-Downloader.AndroidOS.DorDrae.cw
+Tencent Dos.Trojan-downloader.Dordrae.Hsta
+Ikarus Trojan.AndroidOS.Lightdd
+GData Android.Trojan.DDLight.D
+AVG Android/Droiddrea
+Qihoo-360 Trojan.Android.Gen
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/2d486501dcf635a5ca58bb82d3dd3539329a276d.apk'
+
+	Results for MD5:  745513a53af2befe3dc00d0341d80ca6 
+
+	Detected by:  45 / 55 
+	Sophos Detection: Andr/RootCage-A 
+	Kaspersky Detection: Exploit.Linux.Lotoor.l 
+	TrendMicro Detection: AndroidOS_ROOT.A
+Details:============== result
+MicroWorld-eScan Android.Exploit.Exploid.B
+CAT-QuickHeal Exploit.Lotoor.B13
+ALYac Trojan.Android.DroidDream.J
+BitDefender Android.Exploit.Exploid.B
+K7GW Exploit ( 0048d5781 )
+NANO-Antivirus Trojan.Android.Rooter.cwydal
+F-Prot Unix/Lotoor
+Symantec Android.Rootcager
+ESET-NOD32 Android/Exploit.Lotoor.AC
+TrendMicro-HouseCall AndroidOS_ROOT.A
+Avast ELF:Lootor-N [PUP]
+ClamAV Andr.Exploit.Exploid-1
+Kaspersky Exploit.Linux.Lotoor.l
+Alibaba A.H.Sys.Anserver.C
+Agnitum Exploit.Linux.Lotoor.C
+ViRobot Trojan.LinuxEX-Lotoor.15295[h]
+AegisLab Exploit.Linux.Lotoor!c
+Ad-Aware Android.Exploit.Exploid.B
+Sophos Andr/RootCage-A
+Comodo UnclassifiedMalware
+F-Secure Exploit:Android/DroidRooter.A
+DrWeb Android.DreamExploid.1
+Zillya Downloader.OpenConnection.JS.231
+TrendMicro AndroidOS_ROOT.A
+McAfee-GW-Edition Android/DNightmare
+Emsisoft Android.Exploit.Exploid.B (B)
+Cyren Unix/Lotoor
+Jiangmin Backdoor/AndroidOS.e
+Avira ANDROID/EXP.A
+Antiy-AVL Trojan/Generic.ASELF.36E
+Microsoft Exploit:Unix/Lotoor
+AhnLab-V3 Android-Trojan/DroidDream.1f6d
+GData Android.Exploit.Exploid.B
+TotalDefense Linux/Tnega.XAMB!suspicious
+McAfee Artemis!745513A53AF2
+AVware Exploit.AndroidOS.Lotoor
+VBA32 Exploit.Linux.Lotoor.l
+Zoner Exploit.AndroidOS.Lotoor
+Tencent SH.!Android.EExtra.Gen.32
+Yandex Exploit.Linux.Lotoor.C
+Ikarus Trojan.AndroidOS.DroidDream
+Fortinet Android/RooterCAGE.D!exploit
+AVG Android
+Panda Trj/Lotoor.A
+Qihoo-360 Trojan.Android.Gen
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao2/5c8ac017640195b494d53c63bc0e3a198bcc01f5.apk'
+
+	Results for MD5:  3a26f038525f2d3e172b12f893560c39 
+
+	Detected by:  37 / 54 
+	Sophos Detection: Andr/PJApps-Gen 
+	Kaspersky Detection: HEUR:Trojan-Spy.AndroidOS.Adrd.a 
+	TrendMicro Detection: AndroidOS_ADRD.D
+Details:============== result
+MicroWorld-eScan Android.Trojan.PjApps.B
+CAT-QuickHeal Android.Pjapps.A
+McAfee Artemis!3A26F038525F
+VIPRE Trojan.AndroidOS.Pjapps.a
+BitDefender Android.Trojan.PjApps.B
+K7GW Trojan ( 003097121 )
+Arcabit Android.Trojan.PjApps.B
+NANO-Antivirus Trojan.Android.MLW.dnpqyp
+F-Prot AndroidOS/PJApps.A
+Symantec Android.Pjapps
+ESET-NOD32 Android/PJApps.D
+TrendMicro-HouseCall AndroidOS_ADRD.D
+Avast Android:Adrd-C [Trj]
+ClamAV Andr.Pjapps-48
+Kaspersky HEUR:Trojan-Spy.AndroidOS.Adrd.a
+Ad-Aware Android.Trojan.PjApps.B
+Emsisoft Android.Trojan.PjApps.B (B)
+Comodo UnclassifiedMalware
+F-Secure Trojan:Android/Pjapps.A
+DrWeb Android.Spy.17
+TrendMicro AndroidOS_ADRD.D
+McAfee-GW-Edition Artemis!Trojan
+Sophos Andr/PJApps-Gen
+Cyren AndroidOS/PJApps.A
+Jiangmin TrojanSpy.AndroidOS.ad
+Avira ANDROID/PJapps.D.Gen
+Antiy-AVL Trojan[Spy]/AndroidOS.Adrd.ak
+Microsoft TrojanSpy:AndroidOS/Pjapps.A
+AhnLab-V3 Android-Spyware/Adrd.1a80
+GData Android.Trojan.PjApps.B
+VBA32 Trojan-Spy.AndroidOS.Adrd.ak
+Baidu-International Trojan.AndroidOS.Adrd.a
+Rising APK:Trojan.MainService.c/Android!7.CCD [F]
+Ikarus Trojan.AndroidOS.PjApps
+Fortinet Android/PJApps.D!tr
+AVG Android/Pjapp
+Qihoo-360 Trojan.Android.Gen
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/67737605714217a1287c9ac04309e62e4afcca70.apk'
+
+	Results for MD5:  96536a96b415a901ef7badfedf7026f1 
+
+	Detected by:  39 / 55 
+	Sophos Detection: Andr/KongFu-I 
+	Kaspersky Detection: HEUR:Backdoor.AndroidOS.KungFu.a 
+	TrendMicro Detection: ANDROIDOS_KUNGFU.HATA
+Details:============== result
+MicroWorld-eScan Android.Adware.Adwo.A
+CAT-QuickHeal Android.Kungfu.C
+McAfee Artemis!96536A96B415
+AegisLab Legacy
+BitDefender Android.Adware.Adwo.A
+K7GW Trojan ( 0048d5561 )
+F-Prot AndroidOS/AdrAds.A
+Symantec Android.Fokonge
+ESET-NOD32 Android/DroidKungFu.G
+TrendMicro-HouseCall ANDROIDOS_KUNGFU.HATA
+Avast Android:DroidKungFu-AO [Trj]
+ClamAV Andr.Trojan.DroidKungFu-1
+Kaspersky HEUR:Backdoor.AndroidOS.KungFu.a
+Alibaba A.H.Sys.NstrInst.ZD
+NANO-Antivirus Riskware.Android.Wooboo.cthjxd
+Ad-Aware Android.Adware.Adwo.A
+Sophos Andr/KongFu-I
+Comodo UnclassifiedMalware
+F-Secure Trojan:Android/DroidKungFu.A
+DrWeb Android.KungFu.2
+Zillya Trojan.DroidKungFu..5
+TrendMicro ANDROIDOS_KUNGFU.HATA
+McAfee-GW-Edition Artemis!96536A96B415
+Emsisoft Android.Adware.Adwo.A (B)
+Cyren AndroidOS/AdrAds.A
+Jiangmin Backdoor/AndroidOS.bfe
+Avira ANDROID/KungFu.cz.1
+Fortinet Android/DroidKungFu.AW!tr.bdr
+Antiy-AVL Trojan[Backdoor]/AndroidOS.KungFu.a
+Kingsoft Android.Troj.KillAll.b.(kcloud)
+Arcabit Android.Adware.Adwo.A
+AhnLab-V3 Android-Trojan/KungFu.10df0
+AVware Trojan.AndroidOS.DroidKungFu.c
+VBA32 Backdoor.AndroidOS.KungFu.a
+Tencent a.system.safesys.e
+Ikarus Trojan.AndroidOS.DroidKungFu
+GData Android.Adware.Adwo.A
+AVG Android/Kungf
+Qihoo-360 Trojan.Android.Gen
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/bd0cc3efbbc7c97cd3b4ed726c8134d1ff52f300.apk'
+
+	Results for MD5:  a3c2d7977a6b83c7f5b59e6009496c4b 
+
+	Detected by:  41 / 55 
+	Sophos Detection: Andr/PJApps-D 
+	Kaspersky Detection: HEUR:Trojan-Downloader.AndroidOS.DorDrae.a 
+	TrendMicro Detection: AndroidOS_DORDRAE.L
+Details:============== result
+MicroWorld-eScan Android.Trojan.DDLight.A
+CAT-QuickHeal Android.LightDD.A
+ALYac Trojan.Android.DDLight.B
+BitDefender Android.Trojan.DDLight.A
+K7GW Trojan ( 0048d6351 )
+Arcabit Android.Trojan.DDLight.A
+F-Prot AndroidOS/Lightdd.A
+Symantec Android.Lightdd
+ESET-NOD32 Android/Lightdd.A
+TrendMicro-HouseCall AndroidOS_DORDRAE.L
+Avast Android:DorDrae-J [Trj]
+ClamAV Andr.Trojan.Lightdd-11
+Kaspersky HEUR:Trojan-Downloader.AndroidOS.DorDrae.a
+Alibaba A.H.Fra.DDgraph
+NANO-Antivirus Trojan.Android.DDLight.cwhwqy
+Ad-Aware Android.Trojan.DDLight.A
+Sophos Andr/PJApps-D
+Comodo UnclassifiedMalware
+F-Secure Trojan:Android/DroidDream.B
+DrWeb Android.DDLight.2
+TrendMicro AndroidOS_DORDRAE.L
+McAfee-GW-Edition Artemis!A3C2D7977A6B
+Emsisoft Android.Trojan.DDLight.A (B)
+Cyren AndroidOS/Lightdd.A
+Jiangmin TrojanDownloader.AndroidOS.i
+Avira ANDROID/Lightdd.C.Gen
+Antiy-AVL Trojan[Downloader]/AndroidOS.DorDrae.d
+Kingsoft Android.Troj.at_updtbot.a.(kcloud)
+Microsoft TrojanSpy:AndroidOS/DDLight.A
+AegisLab DroidDreamLight
+AhnLab-V3 Android-Trojan/LightDD.10c03
+GData Android.Trojan.DDLight.A
+McAfee Artemis!A3C2D7977A6B
+AVware Trojan.AndroidOS.DDLight.a
+VBA32 Android.Lightdd.A
+Tencent Trojan.Android.Agent.58B76B81
+Yandex Trojan.AndroidOS.DDream.B.Gen
+Ikarus Trojan.AndroidOS.Lightdd
+Fortinet Android/DrdLight.A!tr
+AVG Android/Generic.AI
+Qihoo-360 Trojan.Android.Gen
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/cf9e9f85b55670fa1d5b61ee4d4d62a8b85848fa.apk'
+
+	Results for MD5:  a66693165f6be26dc47ef56b46b4357e 
+
+	Detected by:  41 / 56 
+	Sophos Detection: Andr/KongFu-A 
+	Kaspersky Detection: HEUR:Backdoor.AndroidOS.KungFu.a 
+	TrendMicro Detection: ANDROIDOS_KUNGFU.HBT
+Details:============== result
+MicroWorld-eScan Android.Trojan.DroidKungFu.D
+CAT-QuickHeal Android.Kungfu.C
+Zillya Trojan.DroidKungFu..3
+BitDefender Android.Trojan.DroidKungFu.D
+K7GW Trojan ( 0048d5561 )
+F-Prot AndroidOS/AdrAds.A
+Symantec Android.Fokonge
+TotalDefense AndroidOS/Fokonge
+TrendMicro-HouseCall ANDROIDOS_KUNGFU.HBT
+Avast Android:KungFu-FV [Trj]
+ClamAV Andr.Trojan.DroidKungFu
+Kaspersky HEUR:Backdoor.AndroidOS.KungFu.a
+Alibaba A.H.Sys.NstrInst.C
+NANO-Antivirus Riskware.Android.Wooboo.cthjxd
+Rising DEX:System.Fokonge!1.9DA8
+Ad-Aware Android.Trojan.DroidKungFu.D
+Emsisoft Android.Trojan.DroidKungFu.D (B)
+Comodo UnclassifiedMalware
+F-Secure Trojan:Android/DroidKungFu.T
+DrWeb Android.Gongfu.2.origin
+VIPRE Trojan.AndroidOS.DroidKungFu.c
+TrendMicro ANDROIDOS_KUNGFU.HBT
+Sophos Andr/KongFu-A
+Cyren AndroidOS/GenBl.A6669316!Olympus
+ESET-NOD32 Android/Gappusin.A
+Avira Android/DroidKungFu.A.Gen
+Kingsoft Android.Troj.KillAll.b.(kcloud)
+Microsoft Trojan:AndroidOS/DroidKrungFu.C
+AegisLab DroidKungFu3
+AhnLab-V3 Android-Malicious/KungFu
+GData Android.Trojan.DroidKungFu.D
+McAfee Artemis!A66693165F6B
+AVware Trojan.AndroidOS.DroidKungFu.c
+VBA32 Backdoor.AndroidOS.KungFu.jx
+Zoner Trojan.AndroidOS.DroidKungFu.A
+Tencent a.system.safesys.za
+Ikarus Trojan.AndroidOS.DroidKungFu
+Fortinet Android/DroidKungFu.AW!tr.bdr
+AVG Android/Kungf
+Baidu-International Backdoor.AndroidOS.KungFu.AA
+Qihoo-360 Trojan.Generic
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao2/d6ef87745811bfaf5b6bcfab6452a301aa9cb628.apk'
+
+	Results for MD5:  8f18f6819755cc7ee20332e849a76b3b 
+
+	Detected by:  0 / 54 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+Details:============== result
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/da1c0e0bf21bddad8a1dfe97c42889ee16a781d7.apk'
+
+	Results for MD5:  81afb7eae29ea63ec453f17131a90412 
+
+	Detected by:  41 / 54 
+	Sophos Detection: Andr/KongFu-A 
+	Kaspersky Detection: HEUR:Backdoor.AndroidOS.KungFu.a 
+	TrendMicro Detection: AndroidOS_DROIDKUNGFU.D
+Details:============== result
+MicroWorld-eScan Android.Trojan.DroidKungFu.D
+CAT-QuickHeal Android.Kungfu.C
+McAfee Artemis!81AFB7EAE29E
+BitDefender Android.Trojan.DroidKungFu.D
+K7GW Trojan ( 0048d55f1 )
+F-Prot AndroidOS/DroidKungFu.A
+Symantec Android.Fokonge
+ESET-NOD32 Android/DroidKungFu.AB.Gen
+TrendMicro-HouseCall AndroidOS_DROIDKUNGFU.D
+Avast Android:DroidKungFu-AO [Trj]
+ClamAV Andr.Trojan.KungFu-59
+Kaspersky HEUR:Backdoor.AndroidOS.KungFu.a
+Alibaba A.H.Sys.NstrInst.ZD
+NANO-Antivirus Trojan.Android.KungFu.ctqsst
+AegisLab DroidKungFu3
+Ad-Aware Android.Trojan.DroidKungFu.D
+Sophos Andr/KongFu-A
+Comodo UnclassifiedMalware
+F-Secure Trojan:Android/DroidKungFu.C
+DrWeb Android.Gongfu.2.origin
+Zillya Trojan.DroidKungFu..5
+TrendMicro AndroidOS_DROIDKUNGFU.D
+McAfee-GW-Edition Artemis!Trojan
+Emsisoft Android.Trojan.DroidKungFu.D (B)
+Cyren AndroidOS/DroidKungFu.A
+Jiangmin Backdoor/AndroidOS.fc
+Avira ANDROID/KungFu.cz.1
+Fortinet Android/DroidKungFu.CZ!tr
+Antiy-AVL Trojan[Backdoor]/AndroidOS.KungFu.cz
+Kingsoft Android.Troj.KillAll.b.(kcloud)
+Arcabit Android.Trojan.DroidKungFu.D
+AhnLab-V3 Android-Trojan/KungFu.1c73
+Microsoft Trojan:AndroidOS/DroidKrungFu.C
+TotalDefense Kugfu.XAVN!suspicious
+AVware Trojan.AndroidOS.DroidKungFu.c
+VBA32 Backdoor.AndroidOS.KungFu.ck
+Tencent Trojan.Android.Agent.B446223E
+Ikarus Trojan.AndroidOS.DroidKungFu
+GData Android.Trojan.DroidKungFu.D
+AVG Sexy
+Qihoo-360 Trojan.Android.Gen
