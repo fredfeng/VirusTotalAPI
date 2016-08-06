@@ -10,7 +10,7 @@ from pprint import pprint
 
 class vtAPI():
     def __init__(self):
-        self.api = '<--------------PRIVATE-API-KEY-GOES-HERE----->'
+        self.api = 'bc3b30f092b84837c77108030bb10f06b0573e6a23518355004f3d2c87dd4176'
         self.base = 'https://www.virustotal.com/vtapi/v2/'
     
     def getReport(self,md5):
