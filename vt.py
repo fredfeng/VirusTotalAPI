@@ -84,9 +84,17 @@ def parse(it, md5, verbose, jsondump):
   if it['response_code'] == 0:
     print md5 + " -- Not Found in VT"
     return 0
-  print "\n\tResults for MD5: ",it['md5'],"\n\n\tDetected by: ",it['positives'],'/',it['total'],'\n\tSophos Detection:',it['scans']['Sophos']['result'] ,'\n\tKaspersky Detection:',it['scans']['Kaspersky']['result'], '\n\tTrendMicro Detection:',it['scans']['TrendMicro']['result'],'\n\tScanned on:',it['scan_date'],'\n\tFirst Seen:',it['first_seen'],'\n\tLast Seen:',it['last_seen'],'\n\tUnique Sources',it['unique_sources'],'\n\tSubmission Names:'
-  for x in it['submission_names']:
-    print "\t\t",x
+  #print "\n\tResults for MD5: ",it['md5'],"\n\n\tDetected by: ",it['positives'],'/',it['total'],'\n\tSophos Detection:',it['scans']['Sophos']['result'] ,'\n\tKaspersky Detection:',it['scans']['Kaspersky']['result'], '\n\tTrendMicro Detection:',it['scans']['TrendMicro']['result'],'\n\tScanned on:',it['scan_date'],'\n\tFirst Seen:',it['first_seen'],'\n\tLast Seen:',it['last_seen'],'\n\tUnique Sources',it['unique_sources'],'\n\tSubmission Names:'
+  print "\n\tResults for MD5: ",it['md5'],"\n\n\tDetected by: ",it['positives'],'/',it['total'],'\n\tSophos Detection:',it['scans']['Sophos']['result'] ,'\n\tKaspersky Detection:',it['scans']['Kaspersky']['result'], '\n\tTrendMicro Detection:',it['scans']['TrendMicro']['result']
+
+  print 'Details:============== result'
+  for av in it['scans']:
+      if it['scans'][av]['detected']:
+          print av, it['scans'][av]['result']
+
+
+  #for x in it['submission_names']:
+  #  print "\t\t",x
   if jsondump == True:
     jsondumpfile = open("VTDL" + md5 + ".json", "w")
     pprint(it, jsondumpfile)

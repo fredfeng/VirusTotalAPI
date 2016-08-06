@@ -1,0 +1,179 @@
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/97662a352b5ede38ecb17cd247f56b4c826ba584.apk'
+
+	Results for MD5:  f52e4d38f62df4601808d2f391d2d7e7 
+
+	Detected by:  13 / 53 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+--
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/248bce824e818f813102323be457c82276dc34da.apk'
+
+	Results for MD5:  b8b3610348555fd88c3d3234da3f6dc1 
+
+	Detected by:  1 / 56 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+--
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/0c326c53df0e78a8190a5f33a28a4d95db0d3e03.apk'
+
+	Results for MD5:  931817fb9f3a88047ed46e680d3818d9 
+
+	Detected by:  3 / 55 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+--
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/2b635d46c3e62f112f88c8d37d192bc9999109b4.apk'
+
+	Results for MD5:  b9ebe2dd1e26316e1f5f8dd9037c2109 
+
+	Detected by:  1 / 54 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+--
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao2/5dbb49dd0dd113771548dc1183ab47b1fb4a55c6.apk'
+
+	Results for MD5:  960d292b48e53372d9b6ddee0b783a23 
+
+	Detected by:  16 / 56 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+--
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/d575276105bf3fa1d37133a233c33b3d29400e33.apk'
+
+	Results for MD5:  d8b371c940cdc1262a409abd01eb30af 
+
+	Detected by:  1 / 56 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+--
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/e24aa151abc511901e98024ba234580e59a392d4.apk'
+
+	Results for MD5:  4fbe4f8490217be04b31f8c60384aff4 
+
+	Detected by:  13 / 54 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+--
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/ee3691f79de21c1a970cbcae0e116570a33bc3d2.apk'
+
+	Results for MD5:  aff5a0b3629741566d639d7b4f781184 
+
+	Detected by:  1 / 54 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+--
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/db8330b2c9eecc00bb3ae521ab4a0555568c9152.apk'
+
+	Results for MD5:  b4906dd9e046d49eb03b2573816136aa 
+
+	Detected by:  1 / 55 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+--
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao2/71ca7930c77cecd878ceeba8bf76f92cb1c351fb.apk'
+
+	Results for MD5:  93ad4fef93323dbf3e582dcb48c2dea6 
+
+	Detected by:  27 / 57 
+	Sophos Detection: Andr/DoidRoot-B 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+--
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/020d54b404a7d94267468162d462f759e77a9b5b.apk'
+
+	Results for MD5:  286d04b650188b9a5532afbb7f841c28 
+
+	Detected by:  13 / 51 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+--
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao2/fe6f17c0eba6cec97c89ecd4dc67891117252454.apk'
+
+	Results for MD5:  c426d9afe58d533a23086eef1d292b3e 
+
+	Detected by:  1 / 55 
+	Sophos Detection: None 
+	Kaspersky Detection: None 
+	TrendMicro Detection: None
+--
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/ecf455ca72b8edfd5a831042c552005f2c6dbbdd.apk'
+
+	Results for MD5:  7412bb0ab1c408d466331e9cc7e165e2 
+
+	Detected by:  38 / 55 
+	Sophos Detection: Andr/Kmin-A 
+	Kaspersky Detection: HEUR:Trojan.AndroidOS.Mobtes.u 
+	TrendMicro Detection: AndroidOS_KMIN.A
+--
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao2/132f70936801d48da0677dedb09ef526ff1403ee.apk'
+
+	Results for MD5:  23fe7f0942667867fa14ddd7ac855e14 
+
+	Detected by:  36 / 53 
+	Sophos Detection: Andr/DDLight-A 
+	Kaspersky Detection: HEUR:Trojan-Downloader.AndroidOS.DorDrae.a 
+	TrendMicro Detection: AndroidOS_DDLight.SMA
+--
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/2d486501dcf635a5ca58bb82d3dd3539329a276d.apk'
+
+	Results for MD5:  745513a53af2befe3dc00d0341d80ca6 
+
+	Detected by:  45 / 55 
+	Sophos Detection: Andr/RootCage-A 
+	Kaspersky Detection: Exploit.Linux.Lotoor.l 
+	TrendMicro Detection: AndroidOS_ROOT.A
+--
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao2/5c8ac017640195b494d53c63bc0e3a198bcc01f5.apk'
+
+	Results for MD5:  3a26f038525f2d3e172b12f893560c39 
+
+	Detected by:  37 / 54 
+	Sophos Detection: Andr/PJApps-Gen 
+	Kaspersky Detection: HEUR:Trojan-Spy.AndroidOS.Adrd.a 
+	TrendMicro Detection: AndroidOS_ADRD.D
+--
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/67737605714217a1287c9ac04309e62e4afcca70.apk'
+
+	Results for MD5:  96536a96b415a901ef7badfedf7026f1 
+
+	Detected by:  39 / 55 
+	Sophos Detection: Andr/KongFu-I 
+	Kaspersky Detection: HEUR:Backdoor.AndroidOS.KungFu.a 
+	TrendMicro Detection: ANDROIDOS_KUNGFU.HATA
+--
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao1/bd0cc3efbbc7c97cd3b4ed726c8134d1ff52f300.apk'
+
+	Results for MD5:  a3c2d7977a6b83c7f5b59e6009496c4b 
+
+	Detected by:  41 / 55 
+	Sophos Detection: Andr/PJApps-D 
+	Kaspersky Detection: HEUR:Trojan-Downloader.AndroidOS.DorDrae.a 
+	TrendMicro Detection: AndroidOS_DORDRAE.L
+--
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/cf9e9f85b55670fa1d5b61ee4d4d62a8b85848fa.apk'
+
+	Results for MD5:  a66693165f6be26dc47ef56b46b4357e 
+
+	Detected by:  41 / 56 
+	Sophos Detection: Andr/KongFu-A 
+	Kaspersky Detection: HEUR:Backdoor.AndroidOS.KungFu.a 
+	TrendMicro Detection: ANDROIDOS_KUNGFU.HBT
+--
+Processing file '/home/yufeng/research/exp/benign_benchmark/hao3/da1c0e0bf21bddad8a1dfe97c42889ee16a781d7.apk'
+
+	Results for MD5:  81afb7eae29ea63ec453f17131a90412 
+
+	Detected by:  41 / 54 
+	Sophos Detection: Andr/KongFu-A 
+	Kaspersky Detection: HEUR:Backdoor.AndroidOS.KungFu.a 
+	TrendMicro Detection: AndroidOS_DROIDKUNGFU.D
